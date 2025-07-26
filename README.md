@@ -15,15 +15,17 @@ This project analyzes Indonesian retail sales data to uncover insights into prod
 
 ## DATA VISUALIZATIONS
 
-## CONCLUSIONS
-1. **Seasonal Sales Trends**: Sales peak in specific months,plan marketing and inventory accordingly.
+**Monthly Sales Trend**  
+**Top 10 Best-Selling Products**  
+**Regional Sales by City**  
+**Product Category Share**  
+**Customer Segmentation by Spend**
 
-2. **Product Focus**: A few products drive most sales invest in top performers and bundle slow movers.
+## 🧠 Key Insights
 
-3. **Regional Gaps**: Big cities dominate sales arget growth in underperforming regions.
-
-4. **Customer Segmentation**: Top 20% of customers are high value personalize and retain them.
-
-5. **Category Performance**: Certain product categories lead in revenue align inventory and promotions accordingly.
-
+1. Sales peak during specific months, suggesting seasonal trends
+2. A small number of products drive the majority of revenue  
+3. Big cities dominate sales, highlighting regional gaps  
+4. Top 20% of customers are high-value spenders  
+5. Product category performance varies significantly
 
