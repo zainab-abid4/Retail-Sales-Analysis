@@ -32,6 +32,8 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 ```
+![Alt Text](https://github.com/zainab-abid4/Retail-Sales-Analysis/blob/868a78d52a0bcfd56c6cf334a11258567c4cf48c/MONTHLY%20SALES.PNG)
+
 
 **Best-Selling Products**
 ```python
@@ -46,6 +48,9 @@ plt.gca().invert_yaxis()
 plt.tight_layout()
 plt.show()
 ```
+![Alt Text](https://github.com/zainab-abid4/Retail-Sales-Analysis/blob/868a78d52a0bcfd56c6cf334a11258567c4cf48c/BEST%20SELLING.PNG)
+
+
 **Regional Sales by City** 
 ```python
 region_sales = merged_df.groupby('city_y')['total'].sum().sort_values(ascending=False)
@@ -61,6 +66,7 @@ plt.legend(loc='upper right')
 plt.tight_layout()
 plt.show()
 ```
+![Alt Text](https://github.com/zainab-abid4/Retail-Sales-Analysis/blob/868a78d52a0bcfd56c6cf334a11258567c4cf48c/SALES%20BY%20REGION.PNG)
 
 **Customer Segmentation by Spend**
 ```python
@@ -83,6 +89,8 @@ plt.tight_layout()
 plt.legend()
 plt.show()
 ```
+![Alt Text](https://github.com/zainab-abid4/Retail-Sales-Analysis/blob/868a78d52a0bcfd56c6cf334a11258567c4cf48c/CUSTOMER%20SPEND.PNG)
+
 
 **Top 10 products by sales**
 ```python
@@ -109,6 +117,8 @@ plt.axis('equal')   # Keep the pie circular
 plt.tight_layout()
 plt.show()
 ```
+![Alt Text](https://github.com/zainab-abid4/Retail-Sales-Analysis/blob/868a78d52a0bcfd56c6cf334a11258567c4cf48c/TOP%2010%20PRODUCTS.PNG)
+
 
 ## Key Insights
 
